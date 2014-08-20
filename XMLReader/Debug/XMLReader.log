@@ -1,0 +1,62 @@
+﻿  main.cpp
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(55): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(56): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(33): warning C4101: 'ex' : unreferenced local variable
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(486): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(488): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(490): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(494): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(496): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(504): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(509): warning C4018: '>=' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(543): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(546): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(558): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(561): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(576): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(586): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(589): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(600): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(606): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(609): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(625): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(633): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(643): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(646): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(662): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(670): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(680): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(683): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(699): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(707): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(717): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(720): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(736): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(744): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(754): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(757): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(773): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(781): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(791): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(794): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(810): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(818): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(828): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(831): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(842): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(845): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(860): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(868): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(879): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(882): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(901): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(911): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(916): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(988): warning C4101: 'ex' : unreferenced local variable
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(1033): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(1040): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(1049): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(1058): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(1097): warning C4018: '<' : signed/unsigned mismatch
+c:\users\yongnan\documents\visual studio 2013\projects\xmlreader\xmlreader\main.cpp(1139): warning C4018: '<' : signed/unsigned mismatch
+  XMLReader.vcxproj -> C:\Users\Yongnan\Documents\Visual Studio 2013\Projects\XMLReader\Debug\XMLReader.exe

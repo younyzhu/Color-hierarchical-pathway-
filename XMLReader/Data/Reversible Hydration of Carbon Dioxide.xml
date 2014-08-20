@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pathway>
+	<Canvas>
+		<Size>(1920.000000,955.000000)</Size>
+	</Canvas>
+	<parentName>
+		<Name>()</Name>
+	</parentName>
+	<ChildrenName>
+		<Name>()</Name>
+	</ChildrenName>
+	<compartmentBlock Num="5">
+		<compartment j="0">
+			<Name>plasma membrane</Name>
+			<Position>(0.48115503659739256,0.015706806282722512,0.0376899268052149,0.04682864874345109)</Position>
+			<Contain>(C,7,;)</Contain>
+		</compartment>
+		<compartment j="1">
+			<Name>mitochondrial matrix</Name>
+			<Position>(0.28082568315002254,0.07824226130889612,0.12500334558885626,0.15531305732137515)</Position>
+			<Contain>(C,13,;S,11,;S,12,;S,13,;S,14,;S,24,;S,25,;S,26,;S,27,;R,5,;R,6,;)</Contain>
+		</compartment>
+		<compartment j="2">
+			<Name>extracellular region</Name>
+			<Position>(0.41364152873887877,0.07824226130889612,0.17271694252224243,0.21459582755936332)</Position>
+			<Contain>(C,16,;S,6,;S,7,;S,8,;S,9,;S,20,;S,21,;S,22,;S,23,;S,28,;S,29,;S,30,;S,31,;S,32,;S,33,;S,34,;S,35,;R,3,;R,4,;R,7,;R,8,;)</Contain>
+		</compartment>
+		<compartment j="3">
+			<Name>cytosol</Name>
+			<Position>(0.5941709712611212,0.07824226130889612,0.12500334558885626,0.15531305732137515)</Position>
+			<Contain>(C,1,;S,1,;S,2,;S,3,;S,4,;S,16,;S,17,;S,18,;S,19,;R,1,;R,2,;)</Contain>
+		</compartment>
+	</compartmentBlock>
+	<complexBlock Num="17">
+		<complex j="7">
+			<Name>CA491412Zinc</Name>
+			<Position>(0.40159604741055427,0.41083891165676595,0.2072835015142305,0.13416407864998736)</Position>
+		</complex>
+		<complex j="13">
+			<Name>CA5ABZinc</Name>
+			<Position>(0.3290633015651596,0.39569912167542104,0.06249832725034254,0.04045199174779453)</Position>
+		</complex>
+		<complex j="16">
+			<Name>CA6Zinc</Name>
+			<Position>(0.47666091609024297,0.4772722700194804,0.04523296838116451,0.029277002188455994)</Position>
+		</complex>
+		<complex j="1">
+			<Name>CA123713Zinc</Name>
+			<Position>(0.356198302075568,0.5725411981024646,0.06249832725034254,0.04045199174779453)</Position>
+		</complex>
+	</complexBlock>
+	<physicalEntityBlock Num="1"/>
+	<proteinBlock Num="1"/>
+	<DnaBlock  Num="1"/>
+	<RnaBlock  Num="1"/>
+	<smallMoleculeBlock Num="36">
+		<smallMolecule j="11">
+			<Name>CO2</Name>
+			<Position>(0.6486407228165428,0.5489063399830515,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(11,26)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="12">
+			<Name>H2O</Name>
+			<Position>(0.1498301244187544,0.7370816688549161,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(12,27)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="13">
+			<Name>H+</Name>
+			<Position>(0.6523318383952799,0.788149497466007,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(13,24)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="14">
+			<Name>HCO3-</Name>
+			<Position>(0.06364529270211665,0.4518015786807625,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(14,25)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="24">
+			<Name>H+</Name>
+			<Position>(0.4143305726043712,0.8188631939099449,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(13,24)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="25">
+			<Name>HCO3-</Name>
+			<Position>(0.26089257448347813,0.11239925321683632,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(14,25)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="26">
+			<Name>CO2</Name>
+			<Position>(0.7633635943811119,0.31126226335703977,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(11,26)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="27">
+			<Name>H2O</Name>
+			<Position>(0.5468810761986704,0.08133235109421603,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(12,27)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="6">
+			<Name>CO2</Name>
+			<Position>(0.8082269128560727,0.5932676536960044,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(6,22,28,34)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="7">
+			<Name>H2O</Name>
+			<Position>(0.29430873040149674,0.5411010213495053,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(7,23,29,35)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="8">
+			<Name>H+</Name>
+			<Position>(0.5244913447312414,0.8522122977777573,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(8,20,30,32)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="9">
+			<Name>HCO3-</Name>
+			<Position>(0.4705039363038639,0.27828117624914045,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(9,21,31,33)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="20">
+			<Name>H+</Name>
+			<Position>(0.3002186349107189,0.2984948021466526,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(8,20,30,32)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="21">
+			<Name>HCO3-</Name>
+			<Position>(0.24822032953217799,0.11343689036721988,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(9,21,31,33)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="22">
+			<Name>CO2</Name>
+			<Position>(0.05654061739361805,0.5363284260015428,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(6,22,28,34)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="23">
+			<Name>H2O</Name>
+			<Position>(0.0656729225461657,0.23283923298115475,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(7,23,29,35)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="28">
+			<Name>CO2</Name>
+			<Position>(0.8215683267140754,0.24608354385025916,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(6,22,28,34)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="29">
+			<Name>H2O</Name>
+			<Position>(0.6556193837524714,0.0835688465289605,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(7,23,29,35)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="30">
+			<Name>H+</Name>
+			<Position>(0.4609344470279471,0.06811003775130503,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(8,20,30,32)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="31">
+			<Name>HCO3-</Name>
+			<Position>(0.7583493319185206,0.41838013319364853,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(9,21,31,33)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="32">
+			<Name>H+</Name>
+			<Position>(0.5704428011673749,0.6691012978163914,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(8,20,30,32)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="33">
+			<Name>HCO3-</Name>
+			<Position>(0.7056428290531411,0.7826759857233427,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(9,21,31,33)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="34">
+			<Name>CO2</Name>
+			<Position>(0.1763001722289261,0.7143297748928771,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(6,22,28,34)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="35">
+			<Name>H2O</Name>
+			<Position>(0.3100570120010406,0.8617009590998905,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(7,23,29,35)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="1">
+			<Name>CO2</Name>
+			<Position>(0.06611032422740462,0.48091354744266857,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(1,18)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="2">
+			<Name>H2O</Name>
+			<Position>(0.2442985399303156,0.08305076014871302,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(2,19)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="3">
+			<Name>H+</Name>
+			<Position>(0.48886046073747297,0.33529405140870583,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(3,16)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="4">
+			<Name>HCO3-</Name>
+			<Position>(0.5202692408275793,0.09640606368247422,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(4,17)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="16">
+			<Name>H+</Name>
+			<Position>(0.7371649453591367,0.32339720846682657,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(3,16)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="17">
+			<Name>HCO3-</Name>
+			<Position>(0.570727780660921,0.823426453475854,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(4,17)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="18">
+			<Name>CO2</Name>
+			<Position>(0.7703524927167824,0.5887641188733107,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(1,18)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="19">
+			<Name>H2O</Name>
+			<Position>(0.29687043430688614,0.7849766529374979,0.16666220600091344,0.10112997936948631)</Position>
+			<Dumplicate>(2,19)</Dumplicate>
+		</smallMolecule>
+	</smallMoleculeBlock>
+	<reactionBlock  Num="9">
+		<reaction j="5">
+			<Name>Carbonic Anhydrase Hydrates Carbon Dioxide (mitochondria)</Name>
+			<Type>T</Type>
+			<Position>(0.43802404735456596,0.6194612202401396,0.024999330900137014,0.04045199174779453)</Position>
+		</reaction>
+		<reaction j="6">
+			<Name>Carbonic Anhydrase Dehydrates Bicarbonate (mitochondria)</Name>
+			<Type>T</Type>
+			<Position>(0.5666555404156705,0.36693605454874195,0.024999330900137014,0.04045199174779453)</Position>
+		</reaction>
+		<reaction j="3">
+			<Name>Carbonic Anhydrase Hydrates Carbon Dioxide (plasma membrane)</Name>
+			<Type>T</Type>
+			<Position>(0.635627737186804,0.5329523838638195,0.018093187352465803,0.029277002188455994)</Position>
+		</reaction>
+		<reaction j="4">
+			<Name>Carbonic Anhydrase Dehydrates Bicarbonate (plasma membrane)</Name>
+			<Type>T</Type>
+			<Position>(0.20819773523137108,0.39814153249123374,0.018093187352465803,0.029277002188455994)</Position>
+		</reaction>
+		<reaction j="7">
+			<Name>H2O + CO2 - H+ + HCO3-</Name>
+			<Type>T</Type>
+			<Position>(0.6790038413530223,0.294732798978059,0.018093187352465803,0.029277002188455994)</Position>
+		</reaction>
+		<reaction j="8">
+			<Name>H+ + HCO3- - H2O + CO2</Name>
+			<Type>T</Type>
+			<Position>(0.4532045588957658,0.7118210746713961,0.018093187352465803,0.029277002188455994)</Position>
+		</reaction>
+		<reaction j="1">
+			<Name>Carbonic Anhydrase Hydrates Carbon Dioxide (cytosol)</Name>
+			<Type>T</Type>
+			<Position>(0.3315006453469042,0.3357806367554937,0.024999330900137014,0.04045199174779453)</Position>
+		</reaction>
+		<reaction j="2">
+			<Name>Carbonic Anhydrase Dehydrates Bicarbonate (cytosol)</Name>
+			<Type>T</Type>
+			<Position>(0.6068737285157476,0.618773364741543,0.024999330900137014,0.04045199174779453)</Position>
+		</reaction>
+	</reactionBlock >
+	<edgeBlock Num="41">
+		<edge j="0">
+			<Name>A</Name>
+			<Ends>(C, 1, R, 1)</Ends>
+		</edge>
+		<edge j="1">
+			<Name>A</Name>
+			<Ends>(C, 1, R, 2)</Ends>
+		</edge>
+		<edge j="2">
+			<Name>A</Name>
+			<Ends>(C, 7, R, 3)</Ends>
+		</edge>
+		<edge j="3">
+			<Name>A</Name>
+			<Ends>(C, 7, R, 4)</Ends>
+		</edge>
+		<edge j="4">
+			<Name>A</Name>
+			<Ends>(C, 13, R, 5)</Ends>
+		</edge>
+		<edge j="5">
+			<Name>A</Name>
+			<Ends>(C, 13, R, 6)</Ends>
+		</edge>
+		<edge j="6">
+			<Name>A</Name>
+			<Ends>(C, 16, R, 7)</Ends>
+		</edge>
+		<edge j="7">
+			<Name>A</Name>
+			<Ends>(C, 16, R, 8)</Ends>
+		</edge>
+		<edge j="8">
+			<Name>J</Name>
+			<Ends>(S, 1, R, 1)</Ends>
+		</edge>
+		<edge j="9">
+			<Name>J</Name>
+			<Ends>(S, 2, R, 1)</Ends>
+		</edge>
+		<edge j="10">
+			<Name>J</Name>
+			<Ends>(R, 1, S, 3)</Ends>
+		</edge>
+		<edge j="11">
+			<Name>J</Name>
+			<Ends>(R, 1, S, 4)</Ends>
+		</edge>
+		<edge j="12">
+			<Name>J</Name>
+			<Ends>(S, 16, R, 2)</Ends>
+		</edge>
+		<edge j="13">
+			<Name>J</Name>
+			<Ends>(S, 17, R, 2)</Ends>
+		</edge>
+		<edge j="14">
+			<Name>J</Name>
+			<Ends>(R, 2, S, 18)</Ends>
+		</edge>
+		<edge j="15">
+			<Name>J</Name>
+			<Ends>(R, 2, S, 19)</Ends>
+		</edge>
+		<edge j="16">
+			<Name>J</Name>
+			<Ends>(S, 6, R, 3)</Ends>
+		</edge>
+		<edge j="17">
+			<Name>J</Name>
+			<Ends>(S, 7, R, 3)</Ends>
+		</edge>
+		<edge j="18">
+			<Name>J</Name>
+			<Ends>(R, 3, S, 8)</Ends>
+		</edge>
+		<edge j="19">
+			<Name>J</Name>
+			<Ends>(R, 3, S, 9)</Ends>
+		</edge>
+		<edge j="20">
+			<Name>J</Name>
+			<Ends>(S, 20, R, 4)</Ends>
+		</edge>
+		<edge j="21">
+			<Name>J</Name>
+			<Ends>(S, 21, R, 4)</Ends>
+		</edge>
+		<edge j="22">
+			<Name>J</Name>
+			<Ends>(R, 4, S, 22)</Ends>
+		</edge>
+		<edge j="23">
+			<Name>J</Name>
+			<Ends>(R, 4, S, 23)</Ends>
+		</edge>
+		<edge j="24">
+			<Name>J</Name>
+			<Ends>(S, 11, R, 5)</Ends>
+		</edge>
+		<edge j="25">
+			<Name>J</Name>
+			<Ends>(S, 12, R, 5)</Ends>
+		</edge>
+		<edge j="26">
+			<Name>J</Name>
+			<Ends>(R, 5, S, 13)</Ends>
+		</edge>
+		<edge j="27">
+			<Name>J</Name>
+			<Ends>(R, 5, S, 14)</Ends>
+		</edge>
+		<edge j="28">
+			<Name>J</Name>
+			<Ends>(S, 24, R, 6)</Ends>
+		</edge>
+		<edge j="29">
+			<Name>J</Name>
+			<Ends>(S, 25, R, 6)</Ends>
+		</edge>
+		<edge j="30">
+			<Name>J</Name>
+			<Ends>(R, 6, S, 26)</Ends>
+		</edge>
+		<edge j="31">
+			<Name>J</Name>
+			<Ends>(R, 6, S, 27)</Ends>
+		</edge>
+		<edge j="32">
+			<Name>J</Name>
+			<Ends>(S, 28, R, 7)</Ends>
+		</edge>
+		<edge j="33">
+			<Name>J</Name>
+			<Ends>(S, 29, R, 7)</Ends>
+		</edge>
+		<edge j="34">
+			<Name>J</Name>
+			<Ends>(R, 7, S, 30)</Ends>
+		</edge>
+		<edge j="35">
+			<Name>J</Name>
+			<Ends>(R, 7, S, 31)</Ends>
+		</edge>
+		<edge j="36">
+			<Name>J</Name>
+			<Ends>(S, 32, R, 8)</Ends>
+		</edge>
+		<edge j="37">
+			<Name>J</Name>
+			<Ends>(S, 33, R, 8)</Ends>
+		</edge>
+		<edge j="38">
+			<Name>J</Name>
+			<Ends>(R, 8, S, 34)</Ends>
+		</edge>
+		<edge j="39">
+			<Name>J</Name>
+			<Ends>(R, 8, S, 35)</Ends>
+		</edge>
+	</edgeBlock>
+</Pathway>
+
